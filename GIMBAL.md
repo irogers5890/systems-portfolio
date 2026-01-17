@@ -14,6 +14,8 @@ This project is a closed-loop vision tracking system designed to autonomously ce
 
 The platform is designed as a modular testbed for multi-sensor control systems, enabling future expansion into inertial stabilization, multi-target tracking, and sensor fusion architectures commonly used in robotics, aerospace, and autonomous surveillance systems.
 
+**Engineering Focus:** Real-time perception-to-actuation pipelines, embedded control stability, and hardware–software fault handling under power and timing constraints.
+
 ---
 
 ## 2. System Requirements
