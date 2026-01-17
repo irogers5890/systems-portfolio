@@ -1,20 +1,25 @@
-# Vision-Guided Pan/Tilt Tracking System
+# 🔧 Vision-Guided Pan/Tilt Tracking System  
 > A real-time closed-loop vision and control system for autonomous target tracking and gimbal stabilization
 
-### Quick Specs
-- Control Loop: ~25–30 Hz
-- Latency: <30 ms frame-to-servo
-- Accuracy: ±2° steady-state
-- States: TRACK / LOST
-- Sensors: CSI camera (ArUco)
-- Actuation: Dual-axis servo gimbal
+**Engineering Focus:** Embedded perception-to-actuation pipelines, closed-loop control stability, and hardware–software fault handling under power, timing, and mechanical constraints.
+
+---
+
+## Quick Specs
+- **Control Loop:** ~25–30 Hz  
+- **End-to-End Latency:** <30 ms (frame → servo command)  
+- **Accuracy:** ±2° steady-state  
+- **Tracking States:** `TRACK` / `LOST`  
+- **Sensors:** CSI camera (ArUco fiducial)  
+- **Actuation:** Dual-axis servo gimbal  
+- **Telemetry:** Live browser dashboard + CSV logging  
+
+---
 
 ## 1. System Overview
 This project is a closed-loop vision tracking system designed to autonomously center a moving target using a Raspberry Pi, camera module, and servo-driven pan/tilt mechanism. The system integrates real-time perception, control, and actuation in a unified feedback loop, maintaining stable tracking performance under variable lighting, target motion, and mechanical disturbances.
 
-The platform is designed as a modular testbed for multi-sensor control systems, enabling future expansion into inertial stabilization, multi-target tracking, and sensor fusion architectures commonly used in robotics, aerospace, and autonomous surveillance systems.
-
-**Engineering Focus:** Real-time perception-to-actuation pipelines, embedded control stability, and hardware–software fault handling under power and timing constraints.
+The platform is designed as a **modular testbed for multi-sensor control systems**, enabling future expansion into inertial stabilization, multi-target tracking, and sensor fusion architectures commonly used in robotics, aerospace, and autonomous surveillance systems.
 
 ---
 
