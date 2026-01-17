@@ -1,4 +1,5 @@
 # Systems Engineering Portfolio — Ibrahim Rogers
+**Target Roles:** Systems Engineering, Hardware Test & Validation, Controls, Embedded Systems, and Lab Engineering (Aerospace & Defense)
 
 This repository documents selected engineering projects focused on hardware–software integration, system architecture, and test & validation workflows. The emphasis is on defining requirements, measuring performance, and iterating designs based on structured experimental results.
 
