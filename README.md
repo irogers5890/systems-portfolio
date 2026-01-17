@@ -20,6 +20,10 @@ Experimental test system designed to evaluate radiation attenuation performance 
 - Hardware–Software Debugging  
 - Engineering Documentation
 
+## Engineering Philosophy
+I design systems by defining measurable requirements, building test infrastructure early, and iterating based on quantified performance and failure modes. My focus is on creating hardware–software systems that remain stable, debuggable, and verifiable under real-world constraints.
+
+
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/ibrahim-rogers/  
 - Email: rogers.ib@northeastern.edu
