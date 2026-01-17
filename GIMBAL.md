@@ -24,9 +24,6 @@ The platform is designed as a modular testbed for multi-sensor control systems, 
 
 The system operates as a deterministic feedback loop in which image-space error is continuously converted into angular servo commands. A browser-based monitoring interface provides real-time visualization of tracking state, target error, servo angles, and system frame rate, enabling live tuning and validation.
 
-
-The system operates as a deterministic feedback loop in which image-space error is continuously converted into angular servo commands. A browser-based monitoring interface provides real-time visualization of tracking state, target error, servo angles, and system frame rate, enabling live tuning and validation.
-
 ---
 
 ## 4. Hardware Design
