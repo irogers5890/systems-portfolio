@@ -8,7 +8,9 @@ The work focuses on:
 - Composite formulation and molding  
 - Controlled radiation testing using a **Cs-137 gamma source**  
 - Quantitative comparison against aluminum of matched thickness  
-- Statistical validation using **ANOVA and linear regression (Python)**  
+- Statistical validation using **ANOVA and linear regression (Python)**
+
+**Engineering Focus:** Experimental test system design, materials validation, statistical performance analysis, and mass-constrained engineering trade studies.
 
 ---
 
