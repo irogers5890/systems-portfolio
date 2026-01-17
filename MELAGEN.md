@@ -12,6 +12,9 @@ The work focuses on:
 
 ---
 
+### System Context
+This project was structured as a **materials test and validation system**, not a standalone experiment. The focus was on building a repeatable measurement pipeline—from physical setup and instrumentation geometry to statistical analysis—mirroring how aerospace and defense teams qualify new materials under mass, performance, and reliability constraints.
+
 ## Engineering Objective
 **Demonstrate comparable or better shielding efficacy to aluminum at substantially lower density.**
 
