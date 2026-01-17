@@ -1,6 +1,14 @@
 # Vision-Guided Pan/Tilt Tracking System
 > A real-time closed-loop vision and control system for autonomous target tracking and gimbal stabilization
 
+### Quick Specs
+- Control Loop: ~25–30 Hz
+- Latency: <30 ms frame-to-servo
+- Accuracy: ±2° steady-state
+- States: TRACK / LOST
+- Sensors: CSI camera (ArUco)
+- Actuation: Dual-axis servo gimbal
+
 ## 1. System Overview
 This project is a closed-loop vision tracking system designed to autonomously center a moving target using a Raspberry Pi, camera module, and servo-driven pan/tilt mechanism. The system integrates real-time perception, control, and actuation in a unified feedback loop, maintaining stable tracking performance under variable lighting, target motion, and mechanical disturbances.
 
