@@ -1,21 +1,25 @@
-# Melagen Labs — Melanin–HDPE Radiation Shielding Composite  
+# 🧪 Melagen Labs — Melanin–HDPE Radiation Shielding Composite  
 **Proof-of-Concept Experimental Validation**
 
-## Overview
-This repository documents the design, fabrication, and experimental validation of a **melanin–polyethylene (HDPE) composite radiation shielding material** developed at Melagen Labs. The objective was to evaluate whether a low-density, polymer-based composite could achieve **comparable gamma shielding performance to aluminum** while significantly reducing mass — a key constraint for space and aerospace applications where launch cost and payload mass dominate system tradeoffs.
-
-The work focuses on:
-- Composite formulation and molding  
-- Controlled radiation testing using a **Cs-137 gamma source**  
-- Quantitative comparison against aluminum of matched thickness  
-- Statistical validation using **ANOVA and linear regression (Python)**
-
-**Engineering Focus:** Experimental test system design, materials validation, statistical performance analysis, and mass-constrained engineering trade studies.
+**Engineering Focus:** Experimental test system design, materials validation, statistical performance analysis, and mass-constrained engineering trade studies for aerospace and radiation-sensitive systems.
 
 ---
 
-### System Context
-This project was structured as a **materials test and validation system**, not a standalone experiment. The focus was on building a repeatable measurement pipeline—from physical setup and instrumentation geometry to statistical analysis—mirroring how aerospace and defense teams qualify new materials under mass, performance, and reliability constraints.
+## System Context
+This project was structured as a **materials test and validation system**, not a standalone experiment. The focus was on building a repeatable measurement pipeline — from physical setup and instrumentation geometry to statistical analysis — mirroring how aerospace and defense teams qualify new materials under **mass, performance, and reliability constraints**.
+
+---
+
+## Quick Specs
+- **Radiation Source:** Cs-137 (10 µCi)  
+- **Test Distances:** 3 cm, 5 cm, 10 cm  
+- **Metrics:** mSv/hr, counts/sec  
+- **Composite Density:** ~0.83 g/cm³  
+- **Reference Material:** Aluminum (~2.6 g/cm³)  
+- **Analysis:** Two-factor ANOVA + linear regression (Python)
+
+## Overview
+This repository documents the design, fabrication, and experimental validation of a **melanin–polyethylene (HDPE) composite radiation shielding material** developed at Melagen Labs. The objective was to evaluate whether a low-density, polymer-based composite could achieve **comparable gamma shielding performance to aluminum** while significantly reducing mass — a key constraint for space and aerospace applications where launch cost and payload mass dominate system tradeoffs.
 
 ## Engineering Objective
 **Demonstrate comparable or better shielding efficacy to aluminum at substantially lower density.**
