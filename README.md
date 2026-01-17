@@ -12,10 +12,6 @@ Closed-loop embedded vision system using a Raspberry Pi, camera module, and serv
 Experimental test system designed to evaluate radiation attenuation performance of a melanin–HDPE composite using Cs-137 sources and statistical validation in Python.  
 → [View Project](MELAGEN.md)
 
-### Assistive Sweeper Robot (Cornerstone II)
-Remote-operated robotic platform designed to support mobility-impaired users, emphasizing drivetrain design, usability testing, and mechanical iteration.  
-→ [View Project](ASSISTIVE_ROBOT.md)
-
 ## Focus Areas
 - Systems Architecture & Integration  
 - Requirements Definition & Verification  
