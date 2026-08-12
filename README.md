@@ -3,6 +3,8 @@
 
 This repository documents selected engineering projects focused on hardware–software integration, system architecture, and test & validation workflows. The emphasis is on defining requirements, measuring performance, and iterating designs based on structured experimental results.
 
+[Portfolio (click me)](Ibrahim_Rogers_MechE_Portfolio.pdf)
+
 ## Featured Projects
 
 ### Vision-Guided Pan/Tilt Tracking System
