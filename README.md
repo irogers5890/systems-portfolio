@@ -3,7 +3,7 @@
 
 This repository documents selected engineering projects focused on hardware–software integration, system architecture, and test & validation workflows. The emphasis is on defining requirements, measuring performance, and iterating designs based on structured experimental results.
 
-[Portfolio (click me)](Ibrahim_Rogers_MechE_Portfolio.pdf)
+[Portfolio (click me)](IROGERS_ME_PORTFOLIO_2027.pdf)
 
 ## Featured Projects
 
