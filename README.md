@@ -5,7 +5,7 @@
 B.S. Mechanical Engineering, Northeastern University · Expected May 2028
 Currently a Quality & Sustaining Engineering Co-op at Parker Hannifin, Precision Fluidics.
 
-### 📄 [Full Portfolio (PDF)](IROGERS_ME_PORTFOLIO.pdf)
+### 📄 [Full Portfolio (PDF)](IROGERS_ME_PORTFOLIO_2027.1.pdf)
 
 Test-system architecture, fixture design, mechanism design, and root-cause investigation — with drawings, hardware, and results.
 
